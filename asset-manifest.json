@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/xdc3-demo/static/css/main.c0d365e0.chunk.css",
-    "main.js": "/xdc3-demo/static/js/main.7fec32a9.chunk.js",
+    "main.js": "/xdc3-demo/static/js/main.10d97d4c.chunk.js",
     "runtime-main.js": "/xdc3-demo/static/js/runtime-main.4747c11f.js",
-    "static/js/2.f8bdab21.chunk.js": "/xdc3-demo/static/js/2.f8bdab21.chunk.js",
+    "static/js/2.1e18fb0e.chunk.js": "/xdc3-demo/static/js/2.1e18fb0e.chunk.js",
     "index.html": "/xdc3-demo/index.html",
-    "static/js/2.f8bdab21.chunk.js.LICENSE.txt": "/xdc3-demo/static/js/2.f8bdab21.chunk.js.LICENSE.txt",
+    "static/js/2.1e18fb0e.chunk.js.LICENSE.txt": "/xdc3-demo/static/js/2.1e18fb0e.chunk.js.LICENSE.txt",
     "static/media/AAVE.e.b747f0c6.png": "/xdc3-demo/static/media/AAVE.e.b747f0c6.png",
     "static/media/APEIN.d569384f.png": "/xdc3-demo/static/media/APEIN.d569384f.png",
     "static/media/AVAX.1b6b3fb1.svg": "/xdc3-demo/static/media/AVAX.1b6b3fb1.svg",
@@ -66,8 +66,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4747c11f.js",
-    "static/js/2.f8bdab21.chunk.js",
+    "static/js/2.1e18fb0e.chunk.js",
     "static/css/main.c0d365e0.chunk.css",
-    "static/js/main.7fec32a9.chunk.js"
+    "static/js/main.10d97d4c.chunk.js"
   ]
 }
